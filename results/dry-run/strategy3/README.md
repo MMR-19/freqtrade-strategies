@@ -1,0 +1,1 @@
+TEST strategy 3 README
