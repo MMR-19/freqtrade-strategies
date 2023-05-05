@@ -10,9 +10,9 @@ The structure is `results > spot/futures > strategy > dry-run/live > exchange > 
 ## Overall
 The goal is to compile the most results as possible. Please contribute and keep them coming ;)
 
-## Disclaimer
+<br>
 
-Trading cryptocurrencies, forex, stocks, and other financial instruments involves risk. The content in this repository is for educational and informational purposes only and should not be construed as professional financial advice. You should always consult with a licensed financial advisor before making any investment decisions.
-
-You are solely responsible for any trades you make and for conducting your own research and due diligence. Trading cryptocurrencies, forex, stocks, and other financial instruments may not be suitable for all investors. You should be aware of the risks and be willing to accept them in order to invest in these markets. Only risk capital should be used to trade.
+> ### Disclaimer
+> <sub>Trading cryptocurrencies, forex, stocks, and other financial instruments involves risk. The content in this repository is for educational and informational purposes only and should not be construed as professional financial advice. You should always consult with a licensed financial advisor before making any investment decisions.</sub>  
+> <sub>You are solely responsible for any trades you make and for conducting your own research and due diligence. Trading cryptocurrencies, forex, stocks, and other financial instruments may not be suitable for all investors. You should be aware of the risks and be willing to accept them in order to invest in these markets. Only risk capital should be used to trade.</sub>
 
