@@ -1,6 +1,8 @@
 # Strategy files
 
-| Strategy  | Description                  | Github  | Discord | Telegram |
-|-----------|------------------------------|---------|---------|----------|
-| strategy1 | Description of strategy 1... | htpp:// |         |          |
-| strategy2 | Description of strategy 2... |         |         |          |
+| Strategy          | Description | Github | Discord | Telegram |
+|-------------------|-------------|--------|---------|----------|
+| tesla4            |             |        |         |          |
+| tesla7            |             |        |         |          |
+| EI3v2TagCofiGreen |             |        |         |          |
+| MultiMATSL5       |             |        |         |          |
