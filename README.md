@@ -2,6 +2,9 @@
 
 Welcome to the freqstrade strategies repository! This repository organizes strategies, configurations, and results for trading with freqtrade.
 
+## Pipeline
+
+For a summary vision of all that is being done in this repository, check our pipeline at [Notion](https://ring-girdle-006.notion.site/Freqtrade-Pipeline-b6f0e833b1c84253b591d78e7bbdf968).
 ## Results
 The structure is `results > spot/futures > strategy > dry-run/live > exchange > config`  
 - On the **strategy** folder you can find information about that strategy.  
