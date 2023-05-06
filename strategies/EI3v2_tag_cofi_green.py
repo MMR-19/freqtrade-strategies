@@ -30,7 +30,7 @@ def EWO(dataframe, ema_length=5, ema2_length=3):
 
 
 
-class EI3v2TagCofiGreen(IStrategy):
+class EI3v2_tag_cofi_green(IStrategy):
     INTERFACE_VERSION = 2
     """
     # ROI table:
