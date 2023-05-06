@@ -1,0 +1,28 @@
+Metric          Result
+--------------  ------------
+Total Trades    22
+Win/Loss        15 / 7
+Win Rate        68.1818 %
+
+Total Profit    -5.0685 BUSD
+Total Profit    -1.0137 %
+Average Profit  -0.2304 BUSD
+Average Profit  -0.0461 %
+
+Profit Factor   0.8261
+Max Drawdown    15.2566 BUSD
+Max Drawdown    3.0036 %
+
+CAGR            10.6625
+Calmar          3.5500
+Sharpe          0.2153
+Sortino         0.2459
+
+Std Dev         5.1544
+Skewness        -3.0559
+Kurtosis        11.6966
+
+Risk of Ruin    0.0000
+Payoff Ratio    0.4200
+Risk Return     0.0136
+Gain to Pain    0.0820
