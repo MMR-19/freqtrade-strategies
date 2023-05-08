@@ -1,28 +1,35 @@
-Metric          Result
---------------  -------------
-Total Trades    67
-Win/Loss        58 / 9
-Win Rate        86.5672 %
+Metric           Result
+---------------  -------------
+Total Trades     70
+Win/Loss         61 / 9
+Win Rate         87.1429 %
+Loss Rate        12.8571 %
 
-Total Profit    +45.6407 USDT
-Total Profit    +9.1281 %
-Average Profit  +0.6812 USDT
-Average Profit  +0.1362 %
+Expectancy       +2.7661 USDT
+Average Profit   +0.7385 USDT
+Average Profit   +0.1477 %
 
-Profit Factor   1.6431
-Max Drawdown    47.9970 USDT
-Max Drawdown    9.1938 %
+Total Profit     +51.6928 USDT
+Total Profit     +10.3386 %
+CAGR             +1334.6084 %
 
-CAGR            14758.6430
-Calmar          1605.2834
-Sharpe          1.8306
-Sortino         1.9773
+Max Drawdown     42.2365 USDT
+Max Drawdown     8.3414 %
+Profit Factor    1.7284
+Recovery Factor  1.1930
+Calmar           159.9983
 
-Std Dev         19.3320
-Skewness        -5.7206
-Kurtosis        38.2313
+Sharpe           2.0118
+Sortino          2.1708
+Risk Return      0.1267
 
-Risk of Ruin    0.0000
-Payoff Ratio    0.2556
-Risk Return     0.1153
-Gain to Pain    1.1689
+Std Dev          23.1610
+Skewness         -6.0084
+Kurtosis         41.9505
+
+Risk of Ruin     0.0000 %
+Gain/Pain        1.2192
+Payoff Ratio     0.2560
+Common Sense     1.3986
+Kelly Criterion  0.3600 %
+Ulcer Index      0.0336
