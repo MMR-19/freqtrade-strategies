@@ -1,5 +1,5 @@
 {
-    "stake_currency": "BUSD",
+    "stake_currency": "USDT",
     "dry_run": true,
     "dry_run_wallet": 500,
     "max_open_trades": 5,
